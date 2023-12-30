@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "956387210068",
+    "project_id": "e-drive-dd9c1",
+    "storage_bucket": "e-drive-dd9c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956387210068:android:3321456178698a580c0ec1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.edriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956387210068-1pdqkf8558otbm1856fu1tm689fu3ecl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.edriveapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "956387210068-sp2ibtairbucq9507mrqcte1q8tgl2qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdN0CWQnd2XlcCYM8ALovYd7G4fVuHLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956387210068-sp2ibtairbucq9507mrqcte1q8tgl2qm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956387210068-5urjrslqh1l146hv2nfimcv66d3knlv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.edriveapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
